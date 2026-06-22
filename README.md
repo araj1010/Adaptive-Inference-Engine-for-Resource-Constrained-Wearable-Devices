@@ -333,7 +333,7 @@ This project is provided as-is for educational and research purposes.
 
 ## Contact & Support
 
-**Author**: Abhiraj (@araj1010)  
+**Author**: Anand Raj (@araj1010)  
 **GitHub**: [araj1010](https://github.com/araj1010)
 
 For questions, issues, or contributions:
